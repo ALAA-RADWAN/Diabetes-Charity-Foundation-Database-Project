@@ -123,6 +123,13 @@ Finally, using a document‑oriented NoSQL database will make the data flexible 
 }
 
 ---
+## 💡 Author
 
+**Alaa Radwan**  
+MSc Computer Science with Artificial Intelligence  
+[LinkedIn](https://www.linkedin.com/in/alaa-radwan-27179a158) | [GitHub](https://github.com/ALAA-RADWAN)
+
+---
+## This Readme was written by AI
 
 
