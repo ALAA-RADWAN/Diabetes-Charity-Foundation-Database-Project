@@ -6,22 +6,6 @@ A complete relational database system designed for a medical charity supporting 
 
 ---
 
-## 📚 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Scenario & Example Queries](#scenario--example-queries)
-- [ER Model](#er-model)
-- [Relational Schema](#relational-schema)
-- [Sample Data](#sample-data)
-- [SQL Queries](#sql-queries)
-- [Screenshots](#screenshots)
-- [NoSQL Discussion](#nosql-discussion)
-- [Tools Used](#tools-used)
-- [Project Contents](#project-contents)
-- [Academic Context](#academic-context)
-
----
-
 ## 📌 Project Overview
 
 A database designed to help the Diabetes Charity Foundation track:
